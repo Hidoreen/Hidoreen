@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif)
+[![MasterHead](https://www.webmechanix.com/wp-content/webp-expres…-images/uploads/2021/08/wmx-tech-graphic.png.webp)
 <h1 align="center">Hi 👋, I'm Doreen Wangechi</h1>
 <h3 align="center">User driven Front-End Developer</h3>
-<img alt = “donut of code” width = “400”src=”https://i.gifer.com/NxfN.gif”>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
 
 - 🌱 I’m currently learning **ReactJs**
 
