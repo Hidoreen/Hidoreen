@@ -1,18 +1,10 @@
-<h1 align="center">Hi 👋, I'm Doreen Wangechi</h1>
-<h3 align="center">User driven Front-End Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
+<h1 align="center">👋 Hi there</h1>
 
-- 🌱 I’m currently learning **ReactJs**
+<p align="center">My name is Doreen, I find pleasure understanding and learning the inner workings of web development, new tricks and old ones as well.
+I love working on the fron-end side of things to ensure greate UserExperience and appreciate just as much the serves side.
+</p>
 
-- 👯 I’m looking to collaborate on **Front end projects**
-
-- 💬 Ask me about **UX Research and Design**
-
-- 📫 How to reach me **hellowangechi@gmail.com**
-
-- ⚡ Fun fact **I can create diet plans and modify for your specific needs :)**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You're welcome to connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/doreen-wangeci/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/doreen-wangeci/" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/doreenwangeci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/doreenwangeci" height="30" width="40" /></a>
