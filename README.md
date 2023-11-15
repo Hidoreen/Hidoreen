@@ -2,17 +2,18 @@
 
 <p align="center">My name is Doreen, I find pleasure understanding and learning the inner workings of web development, new tricks and old ones as well.
 I love working on the fron-end side of things to ensure greate UserExperience and appreciate just as much the serves side.
+Sometimes you will find me designing layouts on paper or on figma. It is crucial for me to understand the development process from user research to deployment.
 </p>
 
 <h3 align="left">You're welcome to connect with me:</h3>
-<button padding="6px 12px" border="2px solid #fffff"> <p align="left">
+<button text-decoration="none"> <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/doreen-wangeci/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/doreen-wangeci/" height="30" width="40" />Linkedin</a>
 </button>
 
   
-<a href="https://www.behance.net/https://www.behance.net/doreenwangeci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/doreenwangeci" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/doreenwangeci" target="blank" text-decoration="none"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/doreenwangeci" height="30" width="40" />Behance</a>
 
-<a href="https://discord.gg/doreenwangechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="doreenwangechi" height="30" width="40" /></a>
+<a href="https://discord.gg/doreenwangechi" target="blank" text-decoration="none"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="doreenwangechi" height="30" width="40" />Discord</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
