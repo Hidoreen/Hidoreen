@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there</h1>
 
-<p align="center">My name is Doreen, I find pleasure understanding and learning the inner workings of web development, new tricks and old ones as well.
-I love working on the fron-end side of things to ensure greate UserExperience and appreciate just as much the serves side.
+<p align="center">My name is Doreen, I find pleasure understanding and learning the inner workings of web development, new tricks and old ones as well.<br>
+I love working on the fron-end side of things to ensure greate UserExperience and appreciate just as much the serves side.<br>
 Sometimes you will find me designing layouts on paper or on figma. It is crucial for me to understand the development process from user research to deployment.
 </p>
 
