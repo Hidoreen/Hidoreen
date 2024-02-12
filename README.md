@@ -1,6 +1,6 @@
 <h1 align="center">Join my Quest? 😄 </h1>
 
-<p align="left">My name is Doreen, I'm on a quest to create products that are enjoyed by their users, please joing in 😊 <br>
+<p align="left">My name is Doreen, I'm on a quest to create products that are enjoyed by users, please joing in 😊 <br>
 Working on the front-end side of things to ensure smooth UserExperience<br>
 </p>
 
