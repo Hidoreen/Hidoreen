@@ -4,9 +4,7 @@
 
 <h3 align="left">Find me:</h3>
  
-  <a href="mailto:hellowangechi@gmail.com">Gmail
-    <img src="	https://camo.githubusercontent.com/71a0f4bfcf1f222…f676f3d676d61696c266c6f676f436f6c6f723d7768697465" height='25' data-canonical-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%" />
-  </a>  
+  <a href="mailto:hellowangechi@gmail.com">Gmail</a>  
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/doreen-wangeci/" target="blank">Linkedin</a> 
   <a href="https://www.behance.net/https://www.behance.net/doreenwangeci" target="blank" text-decoration="none">Behance</a>
 
