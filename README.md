@@ -4,15 +4,9 @@
 
 <h3 align="left">Find me:</h3>
    <div style="display: inline;">
-        <a href="mailto:hellowangechi@gmail.com" style="display: inline-block; padding: 10px 20px; background-color: #DB4437; color: white; text-decoration: none; border: 1px solid transparent; border-radius: 5px;">
-            Gmail
-        </a>
-        <a href="https://www.linkedin.com/in/doreen-wangeci/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border: 1px solid transparent; border-radius: 5px;">
-            Linkedin
-        </a>
-        <a href="https://www.behance.net/doreenwangeci" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #1769FF; color: white; text-decoration: none; border: 1px solid transparent; border-radius: 5px;">
-            Behance
-        </a>
+        <a href="mailto:hellowangechi@gmail.com">Gmail</a>  
+        <a href="https://linkedin.com/in/https://www.linkedin.com/in/doreen-wangeci/" target="blank">Linkedin</a> 
+        <a href="https://www.behance.net/https://www.behance.net/doreenwangeci" target="blank">Behance</a> 
     </div>
 
 
