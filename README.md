@@ -4,14 +4,14 @@
 
 <h3 align="left">Find me:</h3>
 <div> 
-  <ul style="list-style:none; display:flex; gap:4px;">
-    <li>
+  <ul style="list-style:none;">
+    <li style="display:inline-block;">
       <a href="mailto:hellowangechi@gmail.com">Gmail</a>  
     </li>
-     <li>
+     <li style="display:inline-block;">
        <a href="https://linkedin.com/in/https://www.linkedin.com/in/doreen-wangeci/" target="blank">Linkedin</a> 
     </li>
-     <li>
+     <li style="display:inline-block;">
        <a href="https://www.behance.net/https://www.behance.net/doreenwangeci" target="blank" text-decoration="none">Behance</a>
     </li>
   </ul>
