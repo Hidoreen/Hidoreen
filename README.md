@@ -3,15 +3,14 @@
 <p align="left">Hi! My name is Doreen, I'm on a quest to create products that are enjoyed by users, My world revolves around the ever-evolving realm of Web Development where I continuously expand my knowledge and skills to craft exceptional digital experiences. Beyond mastering the core technologies, I thrive on exploring cutting-edge innovations, always on the lookout for new tools and techniques to tackle real-world challenges creatively and efficiently. My commitment to staying at the forefront of technology is the driving force behind my journey as a developer.
 
 <h3 align="left">Find me:</h3>
-<div> 
-  <ul style="list-style:none;">
-    <li style="display:inline-block;">
+  <ul style="list-style:none; display:flex">
+    <li>
       <a href="mailto:hellowangechi@gmail.com">Gmail</a>  
     </li>
-     <li style="display:inline-block;">
+     <li>
        <a href="https://linkedin.com/in/https://www.linkedin.com/in/doreen-wangeci/" target="blank">Linkedin</a> 
     </li>
-     <li style="display:inline-block;">
+     <li>
        <a href="https://www.behance.net/https://www.behance.net/doreenwangeci" target="blank" text-decoration="none">Behance</a>
     </li>
   </ul>
