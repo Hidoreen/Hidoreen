@@ -3,18 +3,15 @@
 <p align="left">Hi! My name is Doreen, I'm on a quest to create products that are enjoyed by users, My world revolves around the ever-evolving realm of Web Development where I continuously expand my knowledge and skills to craft exceptional digital experiences. Beyond mastering the core technologies, I thrive on exploring cutting-edge innovations, always on the lookout for new tools and techniques to tackle real-world challenges creatively and efficiently. My commitment to staying at the forefront of technology is the driving force behind my journey as a developer.
 
 <h3 align="left">Find me:</h3>
-  <div style="display: inline;">
+   <div style="display: inline;">
         <a href="mailto:hellowangechi@gmail.com" style="display: inline-block; padding: 10px 20px; background-color: #DB4437; color: white; text-decoration: none; border: 1px solid transparent; border-radius: 5px;">
             Gmail
-            <img src="gmail_logo.png" alt="Gmail Logo" width="20">
         </a>
-        <a href="https://linkedin.com/in/https://www.linkedin.com/in/doreen-wangeci/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border: 1px solid transparent; border-radius: 5px;">
+        <a href="https://www.linkedin.com/in/doreen-wangeci/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; text-decoration: none; border: 1px solid transparent; border-radius: 5px;">
             Linkedin
-            <img src="linkedin_logo.png" alt="LinkedIn Logo" width="20">
         </a>
-        <a href="https://www.behance.net/https://www.behance.net/doreenwangeci" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #1769FF; color: white; text-decoration: none; border: 1px solid transparent; border-radius: 5px;">
+        <a href="https://www.behance.net/doreenwangeci" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #1769FF; color: white; text-decoration: none; border: 1px solid transparent; border-radius: 5px;">
             Behance
-            <img src="behance_logo.png" alt="Behance Logo" width="20">
         </a>
     </div>
 
