@@ -4,8 +4,8 @@
 
 <h3 align="left">Find me:</h3>
    <div style="display: inline;">
-        <a href="mailto:hellowangechi@gmail.com" style="color:black;" >Gmail</a>  
-        <a href="https://linkedin.com/in/https://www.linkedin.com/in/doreen-wangeci/" target="blank">Linkedin</a> 
+        <a href="mailto:hellowangechi@gmail.com" target="blank">Gmail</a> &nbsp;
+        <a href="https://linkedin.com/in/https://www.linkedin.com/in/doreen-wangeci/" target="blank">Linkedin</a> &nbsp;
         <a href="https://www.behance.net/https://www.behance.net/doreenwangeci" target="blank">Behance</a> 
     </div>
 
