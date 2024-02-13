@@ -3,18 +3,17 @@
 <p align="left">Hi! My name is Doreen, I'm on a quest to create products that are enjoyed by users, My world revolves around the ever-evolving realm of Web Development where I continuously expand my knowledge and skills to craft exceptional digital experiences. Beyond mastering the core technologies, I thrive on exploring cutting-edge innovations, always on the lookout for new tools and techniques to tackle real-world challenges creatively and efficiently. My commitment to staying at the forefront of technology is the driving force behind my journey as a developer.
 
 <h3 align="left">Find me:</h3>
-<p align="left">
-<button><a href="mailto:hellowangechi@gmail.com">hellowangechi@gmail.com </a>  
-</button>
+<div style="display:inline; background-color:tomato;  "> 
+  <a href="mailto:hellowangechi@gmail.com">hellowangechi@gmail.com </a>  
+</div>
 
-<button background-color:blue color:white border:none boarder-radius:2px ><a href="https://linkedin.com/in/https://www.linkedin.com/in/doreen-wangeci/" target="blank">Linkedin</a> 
-</button>
+<div  style="display:inline; "> 
+ <a href="https://linkedin.com/in/https://www.linkedin.com/in/doreen-wangeci/" target="blank">Linkedin</a> 
+</div>
 
-
-<button><a href="https://www.behance.net/https://www.behance.net/doreenwangeci" target="blank" text-decoration="none">Behance</a>
-</button>
-
-</p>
+<div  style="display:inline; "> 
+ <a href="https://www.behance.net/https://www.behance.net/doreenwangeci" target="blank" text-decoration="none">Behance</a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
