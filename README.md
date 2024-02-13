@@ -4,7 +4,7 @@
 
 <h3 align="left">Find me:</h3>
   <ul style="list-style:none; display:flex">
-    <li>
+    <li style="background-color:red;">
       <a href="mailto:hellowangechi@gmail.com">Gmail</a>  
     </li>
      <li>
